@@ -21,8 +21,8 @@ Project ini ditujukan untuk melatih pemahaman struktur halaman web, styling dasa
 
 ## 📦 Cara Menjalankan
 
-###**Clone repo** atau download zip
+**Clone repo** atau download zip
    
-   ````bash
+   ```bash
    git clone https://github.com/muhammadainulfuady/praktikum-livecode-dpw.git```
    
